@@ -47,6 +47,7 @@ h2::before {
 
 div p:nth-of-type(2)::first-letter {
     color: aquamarine;
+    font-weight: bold;
 }
 
 div img {
